@@ -4,3 +4,4 @@
 
 视频讲解：https://space.bilibili.com/373595321/channel/collectiondetail?sid=870482&ctype=0  
 文件下载：https://github.com/760985933/netdevops/releases/
+杀毒：https://habo.qq.com/file/showdetail?pk=ADcGbl1kB24IMFs%2BU2E%3D#baseinfo
